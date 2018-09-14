@@ -33,5 +33,5 @@ setup(name='PicoSDK',
       author_email='support@picotech.com',
       url='https://www.picotech.com',
       packages=['picosdk'],
-      scripts=[])
+      scripts=['picosdk'])
 
